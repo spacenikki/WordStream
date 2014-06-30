@@ -1,0 +1,198 @@
+#logo{
+	height: 100px;
+	width: 800px;
+	background-color: white ;
+	display: inline-block;
+	position: relative;
+
+}
+ img #logo1 {
+	height: 368px ;
+	width:  1000px;  
+	display: inline-block;
+	position: relative;
+	bottom: 80px;
+
+	}
+
+#header{
+	height: 20px ;
+	width: 790px;
+	background-color: #254AB8;
+	display: inline-block;
+	position: relative;
+	padding-left: 10px;
+	padding-bottom: 25px;
+}
+
+	#header p{
+		color: white;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 15px;
+}
+
+#navigation {
+	display: inline-block;
+	vertical-align: top;
+	/*position: relative;
+	left: 150px;
+	bottom: 60px;*/
+	border-radius: 3px;
+	border: 1px solid gray;
+	border-top-color:white;
+}
+
+	#navigation p {
+		display: inline-block;
+		position: relative;
+		font-size: 9px;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+
+	#navigation a {
+		text-decoration: none;
+		color: gray;
+		border-right: 1px solid gray;
+	}
+
+#login {
+	display: inline-block;
+	vertical-align: top;
+	height: auto ;
+	width: auto ;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	background-color:blue;
+	color: white;
+	border-radius:2px;
+	text-align: center;
+	padding: 5px 2px;
+	text-decoration:none;
+	margin-top: 4px;
+}
+
+#main{
+	background-color: white;
+	display: inline-block;
+	height: 600px;
+	width:800px;
+	}
+
+#mainhead {
+	width: 260px;
+	margin: 0px 0 0 auto;
+	background-color: white;
+}
+
+#top {
+	border-bottom: 1px solid black;
+	width: 530px;
+}
+
+#top a {
+	vertical-align: top;
+}
+
+#below {
+	height: 600px ;
+	width: 800px;
+}
+
+#phonenumber {
+	height: 50px;
+	width: 120px;
+	margin-left: 300px;
+	/*top: 50px;*/
+}
+
+#horizontal {
+	height: 100px;
+	width: 420px;
+	top: 10px;
+}
+
+#vertical {
+	height: 200px;
+	width: 150px;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+
+#left {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	position: relative;
+	vertical-align: top;
+	left: 30px;
+	top: 40px;
+}
+
+#right {
+	width: 400px;
+	height: 300px;
+	display: inline-block;
+	position: relative;
+	left: 70px;
+}
+
+p {
+	font-size: 12px;
+}
+
+.button {
+	height: 40px;
+	width: 200px;
+	border-radius: 5px;
+	margin: 3px 0px;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#schedule {
+	background-color: #0000FF;
+}
+
+#freetrial {
+	background-color: orange;
+}
+
+.blue {
+	color: #0000FF;
+}
+
+h5 {
+	color: red;
+	line-height: 3px;
+}
+
+#word {
+	border-bottom: 2px solid gray;
+}
+
+#center {
+	text-align: center;
+}
+
+#house {
+	height: 30px;
+	width: 50px;
+	vertical-align: top;
+	display: inline-block;
+	position: relative;
+	
+}
+
+a { 
+	color: blue
+}
+
+li { 
+	font-size: 12px;
+}
+
+ul {
+	padding-left: 15px;
+}
+
